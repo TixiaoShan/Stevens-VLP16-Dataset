@@ -32,10 +32,6 @@ https://www.google.com/maps/place/Stevens+Institute+of+Technology/@40.7448183,-7
 
 https://drive.google.com/drive/folders/1dIsonWdZNBGiUiGh2H6dWJKoJ1k8_A2j?usp=sharing
 
-## Trajectory demo
-
-![](/pics/demo.gif)
-
 ## Cite *LeGO-LOAM*
 
 Thank you for citing our *LeGO-LOAM* paper if you use any of this data: 
