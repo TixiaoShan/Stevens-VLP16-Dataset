@@ -1,6 +1,6 @@
 # Stevens-VLP16-Dataset
 
-This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - Clearpath Jackal, on Stevens Institute of Technology campus. The VLP-16 rotation rate is set to 10Hz. This data-set features over 20K scans and many loop-closures. The TF transform in the bags is provided by [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) (without enabling the loop-cloure function, pure lidar odometry).
+This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - Clearpath Jackal, on Stevens Institute of Technology campus. The VLP-16 rotation rate is set to 10Hz. This data-set features over 20K scans and many loop-closures. The TF transform in the bags is provided by [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) (without enabling the loop-cloure function, pure lidar odometry). The whole mapping process is also recorded in videos.
 
 ## UGV Platform
 
