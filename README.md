@@ -12,6 +12,8 @@ This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - C
 
 ## Location
 
+https://www.google.com/maps/place/Stevens+Institute+of+Technology/@40.7448183,-74.0278369,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259de94dced4f:0xd4c9d146086e72ae!8m2!3d40.7448183!4d-74.0256482
+
 [![](/pics/google-earth.png)](https://www.google.com/maps/place/Stevens+Institute+of+Technology/@40.7448183,-74.0278369,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259de94dced4f:0xd4c9d146086e72ae!8m2!3d40.7448183!4d-74.0256482)
 
 ## Point cloud map
@@ -19,6 +21,8 @@ This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - C
 ![](/pics/point-cloud.png)
 
 ## Download
+
+https://drive.google.com/drive/folders/1dIsonWdZNBGiUiGh2H6dWJKoJ1k8_A2j?usp=sharing
 
 [![](/pics/google-drive.png)](https://drive.google.com/drive/folders/1dIsonWdZNBGiUiGh2H6dWJKoJ1k8_A2j?usp=sharing)
 
