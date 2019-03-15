@@ -6,11 +6,11 @@ This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - C
 
 ![](/pics/jackal.png)
 
-## TF in bag
+## TF in the bags
 
 ![](/pics/tf.png)
 
-## Topics in bag
+## Topics in the bags
 
 ```
 /tf # not needed for running LeGO-LOAM, do not publish it when test with LeGO-LOAM
