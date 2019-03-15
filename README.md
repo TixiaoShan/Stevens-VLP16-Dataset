@@ -13,9 +13,9 @@ This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - C
 ## Topics in bag
 
 ```
-/tf (not needed for running LeGO-LOAM)
+/tf # not needed for running LeGO-LOAM, do not publish it when test with LeGO-LOAM
+/imu/data # not aligned with VLP-16, only offers initial transformation guess, not necessary for running LeGO-LOAM
 /velodyne_points
-/imu/data (not aligned with VLP-16, only offers initial transformation guess)
 ```
 
 ## Location
