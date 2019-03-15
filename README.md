@@ -32,8 +32,6 @@ https://www.google.com/maps/place/Stevens+Institute+of+Technology/@40.7448183,-7
 
 https://drive.google.com/drive/folders/1dIsonWdZNBGiUiGh2H6dWJKoJ1k8_A2j?usp=sharing
 
-[![](/pics/google-drive.png)](https://drive.google.com/drive/folders/1dIsonWdZNBGiUiGh2H6dWJKoJ1k8_A2j?usp=sharing)
-
 ## Trajectory demo
 
 ![](/pics/demo.gif)
