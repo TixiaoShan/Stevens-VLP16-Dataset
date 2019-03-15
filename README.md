@@ -6,9 +6,17 @@ This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - C
 
 ![](/pics/jackal.png)
 
-## Topics in bag
+## TF in bag
 
 ![](/pics/tf.png)
+
+## Topics in bag
+
+```
+/tf
+/velodyne_points
+imu/data
+```
 
 ## Location
 
