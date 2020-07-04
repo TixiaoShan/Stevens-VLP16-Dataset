@@ -32,9 +32,19 @@ https://www.google.com/maps/place/Stevens+Institute+of+Technology/@40.7448183,-7
 
 https://drive.google.com/drive/folders/1dIsonWdZNBGiUiGh2H6dWJKoJ1k8_A2j?usp=sharing
 
-## Cite *LeGO-LOAM*
+## Cite
 
-Thank you for citing our *LeGO-LOAM* paper if you use any of this data: 
+Thank you for citing our paper if you use any of this data: 
+
+```
+@inproceedings{traversability2018,
+  title={Bayesian Generalized Kernel Inference for Terrain Traversability Mapping},
+  author={Shan, Tixiao and Wang, Jinkun and Englot, Brendan and Doherty, Kevin},
+  booktitle={In Proceedings of the 2nd Annual Conference on Robot Learning},
+  year={2018}
+}
+```
+
 ```
 @inproceedings{legoloam2018,
   title={LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain},
